@@ -25,7 +25,7 @@ print("4. Divide")
 print("5. Exponent")
 
 while True:
-    choice = input("Enter operation (1/2/3/4/5) or 'exit' to quit: ")
+    choice = input("Enter operation 1, 2, 3, 4, or 5 or 'exit' to quit: ")
 
     if choice.lower() == 'exit':
         print("Calculator closed.")
